@@ -14,7 +14,7 @@
     text-indent: 10px;
 }
 
-.twitter-table > tr, th {
+.twitter-table th, td {
 
     border: 1px solid #d6d6d6;
     padding-bottom: 11px;
